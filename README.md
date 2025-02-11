@@ -31,6 +31,7 @@
 ✅ **반려동물 피부 상태 분석**
 
 사용자가 반려동물 피부 사진을 업로드하면 AI가 분석하여 **피부 질환 여부 및 유형을 예측**합니다.
+
 ![image](https://github.com/user-attachments/assets/59cf0689-0f54-4041-b4cd-603a28012a15)
 
 
