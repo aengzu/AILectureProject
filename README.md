@@ -57,7 +57,9 @@
     - **A7:** 무증상
 
 - **데이터 분포**:
+    - > ⛔️ 데이터가 불균형하다
     - ![image](https://github.com/user-attachments/assets/a9db2188-0163-4569-bb70-c24ac63e0d13)
+
 
 - **데이터 전처리**:
     - 이미지 데이터에 대해 Transform 적용 -> **이미지 데이터 특징 다양화**
